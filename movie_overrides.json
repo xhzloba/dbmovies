@@ -4,6 +4,8 @@
     "backdrop": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/backdrop-gor.webp"
   }, 
   "69ab4e603310cbf46310e6ad": {
-    "poster": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/1.webp"
+    "poster": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/1.webp",
+    "logo": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/1-logo.webp",
+    "backdrop": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/1-backdrop.webp"
   }
 }
