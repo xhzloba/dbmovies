@@ -1,17 +1,20 @@
 {
   "69471c66700ccb861bcd8d4c": {
-    "backdrop": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/backdrop-gor.webp",
-    "logo": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/gornichnaya.webp"
+    "backdrop": " `https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/backdrop-gor.webp` ",
+    "logo": " `https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/gornichnaya.webp` "
   },
   "69ab4e603310cbf46310e6ad": {
     "about": "Во время последней изнурительной миссии на подготовке рейнджеров боевой инженер должен возглавить подразделение в схватке с гигантской потусторонней машиной-убийцей.",
-    "poster": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/1.webp",
-    "backdrop": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/1-backdrop.webp",
-    "logo": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/1-logo.webp"
+    "poster": " `https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/1.webp` ",
+    "backdrop": " `https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/1-backdrop.webp` ",
+    "logo": " `https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/1-logo.webp` "
   },
   "69a8ab673310cbf463f5ce8e": {
-    "poster": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/69a8ab673310cbf463f5ce8e-poster.webp",
-    "backdrop": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/69a8ab673310cbf463f5ce8e-backdrop.webp",
-    "logo": "https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/69a8ab673310cbf463f5ce8e-logo.webp"
+    "poster": " `https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/69a8ab673310cbf463f5ce8e-poster.webp` ",
+    "backdrop": " `https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/69a8ab673310cbf463f5ce8e-backdrop.webp` ",
+    "logo": " `https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/69a8ab673310cbf463f5ce8e-logo.webp` "
+  },
+  "698f9ee18d4c655318e9adc3": {
+    "logo": " `https://raw.githubusercontent.com/xhzloba/dbmovies/main/images/698f9ee18d4c655318e9adc3-logo.webp` "
   }
 }
